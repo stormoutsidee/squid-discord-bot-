@@ -31,3 +31,7 @@ all of squid bots commands (so far):
 .yt (opens youtube.com)
 
 .squid (squid)
+
+.yeat (opens yeats yt profile)
+
+.breakcore (opens breakcore playlist on spotify)
