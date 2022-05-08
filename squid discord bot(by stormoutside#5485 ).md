@@ -38,4 +38,6 @@ all of squid bots commands (so far):
 
 .spotify tyler (opens tyler the creators spotify profile)
 
-.3am happy (opens a vibey nostalgic playlist)
+.happy (opens a vibey nostalgic playlist)
+
+.goodnight (sends an good night embed)
