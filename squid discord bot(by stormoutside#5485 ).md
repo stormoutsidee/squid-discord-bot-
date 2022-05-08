@@ -1,4 +1,4 @@
-squid discord bot(by stormoutside#5485 )
+Squid discord bot(by stormoutside#5485 )
 all of squid bots commands (so far):
 .squidhelp (tells you everything you need to know)
 .commands (sends an embed with the github link)
