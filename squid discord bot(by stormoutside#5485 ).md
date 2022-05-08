@@ -35,3 +35,5 @@ all of squid bots commands (so far):
 .yeat (opens yeats yt profile)
 
 .breakcore (opens breakcore playlist on spotify)
+
+.spotify tyler (opens tyler the creators spotify profile)
