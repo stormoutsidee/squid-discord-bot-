@@ -41,3 +41,7 @@ all of squid bots commands (so far):
 .happy (opens a vibey nostalgic playlist)
 
 .goodnight (sends an good night embed)
+
+.goodmorning (sends an good morning embed)
+
+.sus (find out 😳)
