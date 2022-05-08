@@ -28,3 +28,5 @@ all of squid bots commands (so far):
 
 .no u (start a battle with squid)
 
+.yt (opens youtube.com)
+
