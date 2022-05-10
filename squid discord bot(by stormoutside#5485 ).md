@@ -1,3 +1,5 @@
+JOIN THE DC :D https://discord.gg/GVNYvSv64z
+
 Squid discord bot(by stormoutside#5485 )
 
 all of squid bots commands (so far):
