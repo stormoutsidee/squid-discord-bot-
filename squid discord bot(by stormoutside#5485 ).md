@@ -47,3 +47,5 @@ all of squid bots commands (so far):
 .goodmorning (sends an good morning embed)
 
 .sus (find out 😳)
+
+.pp (funny)
