@@ -49,3 +49,5 @@ all of squid bots commands (so far):
 .sus (find out 😳)
 
 .pp (funny)
+
+.y (opens another random spotify playlist)
